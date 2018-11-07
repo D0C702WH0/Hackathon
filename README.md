@@ -1,3 +1,21 @@
+
+SUJET : Jeu de carte créé lors du Hackathon de la Wild Code School (octobre 2018)
+
+THEME : Halloween et bonbons
+
+A PROPOS : En allant récuperer les données de differents bonbons via l'API OPENFOODFACTS, nous avons creer en 30 heures un jeu de types MAGIC the Gathering.
+
+REGLES : Le joueur dispose d'une main de 5 cartes, toutes représentent des bonbons. Plus le bonbon est sucré (sucro poing), plus l'adversaire perd de la vie. Il est possible de se soigner en utilisant des bonbons ayant 0 de sucre.
+
+CONTRIBUTEURS : @Anaisben, @ChristopheRibault, @ThibltC, @D0C702WH0
+
+LIEN : https://sugarwar.herokuapp.com/
+
+This project was bootstrapped with Create React App.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
